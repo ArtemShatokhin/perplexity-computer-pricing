@@ -51,6 +51,7 @@ The two structures answer different questions. A credit-per-task price tells you
 
 - [The cost calculator](https://github.com/ArtemShatokhin/perplexity-computer-cost-calculator), which turns these rates into a monthly bill for both platforms.
 - [The pricing breakdown for buyers](https://opensourceperplexitycomputer.com/perplexity-computer-pricing), which reads these numbers out in prose, plan by plan.
+- [What a Max plan buys against metered hours](https://opensourceperplexitycomputer.com/perplexity-max): $200 a month for 10,000 credits, read next to per-second computer time.
 - [The write-up with inline citations](https://kortix.com/blog/open-source-perplexity-computer).
 
 Kortix is open source: the agents, their grants and your company memory are files in a git repository you host. Read it at [github.com/kortix-ai/suna](https://github.com/kortix-ai/suna) or start at [kortix.com](https://kortix.com).
